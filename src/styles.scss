@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css?family=Averia+Libre&display=swap");
+
+$dark: #151515;
+$light: #CACACA;
+
+html{
+   font-size: 16px;
+}
+
+body {
+   font-family: "Averia Libre", sans-serif;
+   text-align: left;
+   background-color: $dark;
+   color: $light;
+}
